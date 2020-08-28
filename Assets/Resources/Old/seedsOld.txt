@@ -1,0 +1,54 @@
+1901.405
+Entrance,Lock,Puzzle,Enemy,Lock(3),Key 3,Room,Puzzle,Key 2,Room,Puzzle,Key 1,Puzzle,Key,End 15steps
+    ####
+3495.258
+Entrance,Lock,Lock(2),Room,Puzzle,Key 2,Room,Puzzle,Key 1,Puzzle,Puzzle,Enemy,Key,End 14steps
+    ####
+3876.296
+Entrance,Room,Puzzle,Lock(3),Key 3,Room,Puzzle,Key 2,Puzzle,Enemy,Key 1,Lock,Key,End 14steps
+    ####
+4814.13
+Entrance,Lock,Lock,Room,Puzzle,Lock(3),Key 3,Puzzle,Enemy,Key 2,Room,Puzzle,Key 1,Enemy,Key,Key,End 17steps
+    ####
+6826.994
+Entrance,Lock,Lock (2),Key 2,Room,Puzzle,Enemy,Key 1,Lock,Key,Puzzle,Key,End 13steps
+    ####
+7197.283
+Entrance,Enemy,Puzzle,Lock(3),Key 3,Puzzle,Enemy,Key 2,Room,Puzzle,Key 1,Enemy,End 13steps
+    ####
+7323.192
+Entrance,Enemy,Puzzle,Lock(3),Key 3,Puzzle,Enemy,Key 2,Puzzle,Enemy,Key 1,Enemy,Enemy,End 14steps
+    ####
+7672.751
+Entrance,Enemy,Puzzle,Lock(3),Key 3,Enemy,Puzzle,Key 2,Puzzle,Enemy,Key 1,Lock,Key,End 14steps
+    ####
+8291.844
+Entrance,Lock,Puzzle,Puzzle,Enemy,Lock,Enemy,Key,Enemy,Puzzle,Enemy,Key,End 13steps
+    ####
+9094.924
+Entrance,Enemy,Puzzle,Lock(3),Key 3,Room,Puzzle,Key 2,Puzzle,Enemy,Key 1,Enemy,End 13steps
+    ####
+10368.89
+Entrance,Puzzle,Enemy,Lock(3),Key 3,Puzzle,Enemy,Key 2,Puzzle,Enemy,Key 1,Lock,Key,End 14steps
+    ####
+11284.44
+Entrance,Room,Puzzle,Lock(3),Key 3,Room,Puzzle,Key 2,Room,Puzzle,Key 1,Puzzle,End 13steps
+    ####
+11602.54
+Entrance,Lock(2),Room,Puzzle,Key 2,Room,Puzzle,Key 1,Puzzle,Puzzle,Lock,Key,End 13steps
+    ####
+11799.66
+Entrance,Lock,Room,Puzzle,Lock(3),Key 3,Puzzle,Enemy,Key 2,Puzzle,Enemy,Key 1,Key,Lock,Key,End 16steps
+    ####
+2124.467
+Entrance,Lock,Lock,Puzzle,Puzzle,Enemy,Lock,Enemy,Key,Enemy,Key,Key,Enemy,Puzzle,Lock,Key,End 17steps
+    ####
+3491.74
+Entrance,Lock,Lock,Enemy,Puzzle,Lock(3),Key 3,Puzzle,Enemy,Key 2,Puzzle,Enemy,Key 1,Key,Key,End 16steps
+    ####
+4958.635
+Entrance,Lock,Enemy,Puzzle,Lock(3),Key 3,Puzzle,Enemy,Key 2,Puzzle,Enemy,Key 1,Key,Lock,Key,End 16steps
+    ####
+6664.224
+Entrance,Lock,Lock,Lock,Lock (2),Key 2,Puzzle,Enemy,Enemy,Key 1,Key,Puzzle,Key,Enemy,Key,End 16steps
+    ####

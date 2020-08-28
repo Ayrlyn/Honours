@@ -1,0 +1,112 @@
+Entrance located at (0,0)
+Layout Number: 2
+Enemy types. Small: 3, Large: 3
+Hazard type: 2
+Optional hazard type: 0
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+Puzzle Room located at (0,1)
+Layout Number: 1
+Enemy types. Small: 4, Large: 4
+Hazard type: 3
+Optional hazard type: 1
+Optional enemy type: 0
+Optional wall existence: 0
+#### Room Complete ####
+Double Locked Room located at (-1,1)
+Layout Number: 2
+Enemy types. Small: 4, Large: 3
+Hazard type: 1
+Optional hazard type: 3
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+Enemy Room located at (-2,1)
+Layout Number: 1
+Enemy types. Small: 2, Large: 3
+Hazard type: 1
+Optional hazard type: 2
+Optional enemy type: 3
+Optional wall existence: 1
+#### Room Complete ####
+Final Room located at (-3,1)
+Layout Number: 1
+Enemy types. Small: 1, Large: 1
+Hazard type: 1
+Optional hazard type: 0
+Optional enemy type: 0
+Optional wall existence: 0
+#### Room Complete ####
+Locked Room located at (0,-1)
+Layout Number: 2
+Enemy types. Small: 4, Large: 2
+Hazard type: 1
+Optional hazard type: 1
+Optional enemy type: 2
+Optional wall existence: 0
+#### Room Complete ####
+Locked Room located at (0,-2)
+Layout Number: 1
+Enemy types. Small: 4, Large: 3
+Hazard type: 2
+Optional hazard type: 0
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+Enemy Room located at (1,-2)
+Layout Number: 2
+Enemy types. Small: 3, Large: 2
+Hazard type: 2
+Optional hazard type: 2
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+First Key located at(1, -1)
+Layout Number: 1
+Enemy types. Small: 4, Large: 2
+Hazard type: 1
+Optional hazard type: 0
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+Second Key located at (-1,0)
+Layout Number: 1
+Enemy types. Small: 4, Large: 2
+Hazard type: 1
+Optional hazard type: 0
+Optional enemy type: 4
+Optional wall existence: 0
+#### Room Complete ####
+Puzzle Room located at (1,0)
+Layout Number: 2
+Enemy types. Small: 2, Large: 4
+Hazard type: 3
+Optional hazard type: 1
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+Key Room located at (1,1)
+Layout Number: 2
+Enemy types. Small: 3, Large: 2
+Hazard type: 2
+Optional hazard type: 3
+Optional enemy type: 4
+Optional wall existence: 0
+#### Room Complete ####
+Enemy Room located at (0,-3)
+Layout Number: 1
+Enemy types. Small: 4, Large: 1
+Hazard type: 1
+Optional hazard type: 0
+Optional enemy type: 4
+Optional wall existence: 1
+#### Room Complete ####
+Key Room located at (1,-3)
+Layout Number: 2
+Enemy types. Small: 4, Large: 4
+Hazard type: 3
+Optional hazard type: 0
+Optional enemy type: 3
+Optional wall existence: 0
+#### Room Complete ####

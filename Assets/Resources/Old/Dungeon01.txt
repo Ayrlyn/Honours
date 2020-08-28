@@ -1,0 +1,96 @@
+Entrance Room
+Small enemy type: 4
+Big enemy type: 4
+Hazard type: 1
+Optional hazard type: 1
+Optional enemy type: 3
+Optional wall existence: 0
+#### Room Complete ####
+Key Room
+Small enemy type: 1
+Big enemy type: 2
+Hazard type: 1
+Optional hazard type: 3
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+Puzzle Room
+Small enemy type: 4
+Big enemy type: 1
+Hazard type: 1
+Optional hazard type: 0
+Optional enemy type: 3
+Optional wall existence: 0
+#### Room Complete ####
+Puzzle Room
+Small enemy type: 1
+Big enemy type: 4
+Hazard type: 3
+Optional hazard type: 2
+Optional enemy type: 1
+Optional wall existence: 0
+#### Room Complete ####
+Enemy Room
+Small enemy type: 3
+Big enemy type: 3
+Hazard type: 1
+Optional hazard type: 0
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+Enemy Room
+Small enemy type: 4
+Big enemy type: 2
+Hazard type: 3
+Optional hazard type: 0
+Optional enemy type: 1
+Optional wall existence: 0
+#### Room Complete ####
+Locked Room
+Small enemy type: 1
+Big enemy type: 1
+Hazard type: 2
+Optional hazard type: 3
+Optional enemy type: 1
+Optional wall existence: 0
+#### Room Complete ####
+Key Room
+Small enemy type: 4
+Big enemy type: 3
+Hazard type: 1
+Optional hazard type: 0
+Optional enemy type: 4
+Optional wall existence: 1
+#### Room Complete ####
+Puzzle Room
+Small enemy type: 3
+Big enemy type: 1
+Hazard type: 2
+Optional hazard type: 0
+Optional enemy type: 0
+Optional wall existence: 1
+#### Room Complete ####
+Enemy Room
+Small enemy type: 3
+Big enemy type: 4
+Hazard type: 2
+Optional hazard type: 0
+Optional enemy type: 4
+Optional wall existence: 0
+#### Room Complete ####
+Locked Room
+Small enemy type: 1
+Big enemy type: 1
+Hazard type: 1
+Optional hazard type: 2
+Optional enemy type: 4
+Optional wall existence: 1
+#### Room Complete ####
+Final Room
+Small enemy type: 3
+Big enemy type: 2
+Hazard type: 1
+Optional hazard type: 0
+Optional enemy type: 1
+Optional wall existence: 0
+#### Room Complete ####

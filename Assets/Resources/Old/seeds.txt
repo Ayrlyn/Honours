@@ -1,0 +1,30 @@
+3770.846
+Entrance,Lock (2),Key 2,Puzzle,Enemy,Enemy,Key 1,Puzzle,Lock,Key,Puzzle,Enemy,Lock,Key,Puzzle,End 16steps
+    ####
+6806.292
+Entrance,Lock (2),Key 2,Enemy,Puzzle,Enemy,Key 1,Key,Key,Puzzle,Enemy,Lock,End 13steps
+    ####
+7073.052
+Entrance,Enemy,Puzzle,Lock(3),Key 3,Puzzle,Enemy,Key 2,Key,Puzzle,Enemy,Key 1,End 13steps
+    ####
+8348.481
+Entrance,Key,Puzzle,Key,Puzzle,Enemy,Enemy,Lock,Key,Lock,Enemy,Puzzle,Lock,Puzzle,End 15steps
+    ####
+9255.813
+Entrance,Lock,Key,Enemy,Puzzle,Lock(3),Key 3,Puzzle,Enemy,Key 2,Lock,Enemy,Puzzle,Key 1,Lock,Lock,Key,Puzzle,Enemy,Key,Key,Puzzle,End 23steps
+    ####
+9688.224
+Entrance,Lock(2),Lock,Enemy,Puzzle,Key 2,Puzzle,Enemy,Key 1,Key,Puzzle,Enemy,Lock,Enemy,Key,Puzzle,Enemy,Lock,End 19steps
+    ####
+9894.802
+Entrance,Key,Puzzle,Enemy,Puzzle,Enemy,Lock,Key,Enemy,Puzzle,Lock,End 12steps
+    ####
+10055.52
+Entrance,Lock,Puzzle,Puzzle,Enemy,Enemy,Key,Lock,Puzzle,Enemy,Key,End 12steps
+    ####
+10592.92
+Entrance,Lock,Lock(2),Enemy,Puzzle,Key 2,Key,Puzzle,Enemy,Key 1,Key,Key,Lock,Enemy,Puzzle,Lock,End 17steps
+    ####
+10980.95
+Entrance,Lock,Lock,Enemy,Puzzle,Lock(3),Key 3,Enemy,Puzzle,Key 2,Lock,Enemy,Puzzle,Key 1,Key,End 16steps
+    ####
